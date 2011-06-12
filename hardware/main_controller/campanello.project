@@ -1,0 +1,4 @@
+schematics campanello.sch
+output-name campanello
+elements-dir ~/work/geda/pcb-elements
+skip-m4

@@ -1,0 +1,10 @@
+Circuit board designed to control a set of eight motors for use as a doorbell.
+
+http://david.neonquill.com/projects/campanello/
+
+Copyright 2011, David Watson <david@neonquill.com>
+Released under the TAPR Open Hardware License v 1.0.
+http://www.tapr.org/OHL
+
+The core circuit is based on the Diavolino Arduino compatible board by
+Evil Mad Science LLC. http://www.evilmadscientist.com/article.php/diavolino
